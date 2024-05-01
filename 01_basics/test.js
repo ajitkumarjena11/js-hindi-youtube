@@ -8,6 +8,6 @@ accountCity = "Bangalore"
 
 accountEmail = "aj@gmail.com"
 accountPassword = "1237645"
-accountCity = "Odishaaaa"
+accountCity = "Odishahudhude"
 
 console.table([accountId, accountEmail, accountPassword, accountCity])
