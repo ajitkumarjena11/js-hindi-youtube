@@ -1,13 +1,13 @@
 const accountId = 12564
-let accountEmail ="ajit@gmail.com"
-var accountPassword ="12345"
-accountCity ="Bangalore"
+let accountEmail = "ajit@gmail.com"
+var accountPassword = "12345"
+accountCity = "Bangalore"
 
 //acccountId = 2// not allowed
 
 
-accountEmail ="aj@gmail.com"
-accountPassword ="1237645"
-accountCity ="Odisha"
+accountEmail = "aj@gmail.com"
+accountPassword = "1237645"
+accountCity = "Odishaaaa"
 
-console.table([accountId,accountEmail,accountPassword,accountCity])
+console.table([accountId, accountEmail, accountPassword, accountCity])
